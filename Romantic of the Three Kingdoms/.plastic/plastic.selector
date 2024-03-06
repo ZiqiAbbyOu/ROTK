@@ -1,0 +1,4 @@
+repository "new-repository@RMTOTK@cloud"
+  path "/"
+    br "/main"
+    co "/main"
